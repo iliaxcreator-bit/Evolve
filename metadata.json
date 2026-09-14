@@ -1,0 +1,6 @@
+{
+  "name": "EVOLVE OS",
+  "description": "Personal operating system for executive decision-support, daily execution, business CRM, financial control, and life alignment.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
